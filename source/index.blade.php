@@ -4,7 +4,7 @@
     <h1>Logos for AAAVW/RT66 Air-Cooled VW Club</h1>
 
     <h2> 20th Anniversary Logo</h2>
-    <img src="https://github.com/aaavwclub/Route-66-VW-Club/blob/ede9a3de75cf86d584d79fa8985af0b476f10f35/images/AAAVW_RT66_Logo_3750x3750px.png"/>
+    <img src="../images/AAAVW_RT66_Logo_3750x3750px.png"/>
 
 
 @endsection
