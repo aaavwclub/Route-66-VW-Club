@@ -6,5 +6,6 @@
     <h2> 20th Anniversary Logo</h2>
     <img src="https://res.cloudinary.com/dn9akjdfi/image/upload/v1628629831/AAAVW_RT66_Logo_3750x3750px_vutcli.png"/>
 
+<a href="https://drive.google.com/file/d/1IoIMzilPZw6AvgCYUWNutMpbTRisJSwh/view?usp=sharing"> High Quality Version </a>
 
 @endsection
